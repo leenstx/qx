@@ -284,7 +284,7 @@ host-suffix, omny.fm, 香港节点
 host-suffix, omtrdc.net, 香港节点
 host-suffix, one.one, 香港节点
 host-suffix, open.spotifycdn.com, 香港节点
-host-suffix, openai.com, 台湾节点
+host-suffix, openai.com, 日本节点
 host-suffix, opencode.net, 香港节点
 host-suffix, oup.com, 香港节点
 host-suffix, owenyoung.com, 香港节点
