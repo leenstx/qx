@@ -12,7 +12,7 @@ host-keyword, claude, 美国节点
 host-keyword, cursor, direct
 host-keyword, dailymotion, 香港节点
 host-keyword, diabrowser, 美国节点
-host-keyword, google, 美国节点
+host-keyword, google, 日本节点
 host-keyword, grok, proxy
 host-keyword, hottg, 香港节点
 host-keyword, immersivetranslate, 香港节点
@@ -192,12 +192,6 @@ host-suffix, godaddy.com, 香港节点
 host-suffix, golang.org, 香港节点
 host-suffix, goo.gl, 香港节点
 host-suffix, goodreads.com, 香港节点
-host-suffix, google.com, 美国节点
-host-suffix, google.dev, 美国节点
-host-suffix, googleadservices.com, 美国节点
-host-suffix, googleapis.com, 美国节点
-host-suffix, googleusercontent.com, 美国节点
-host-suffix, googlevideo.com, 美国节点
 host-suffix, gravatar.com, 香港节点
 host-suffix, grok.com, proxy
 host-suffix, gstatic.com, 美国节点
