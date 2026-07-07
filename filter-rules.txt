@@ -442,7 +442,7 @@ host-suffix, xvideos.com, 香港节点
 host-suffix, xx.fbcdn.net, 香港节点
 host-suffix, xym9.com, 香港节点
 host-suffix, yandex.com, 香港节点
-host-suffix, ycombinator.com, 香港节点
+host-suffix, ycombinator.com, 日本节点
 host-suffix, yizhoushi.com, 香港节点
 host-suffix, youtube.com, 香港节点
 host-suffix, youtu.be, 香港节点
@@ -460,6 +460,7 @@ host-suffix, zlibrary-china.se, 香港节点
 host-suffix, zlibrary.to, 香港节点
 host-suffix, zuise.co, 香港节点
 
+host-suffix, behance.net, 香港节点
 # --- IP-CIDR Rules ---
 ip-cidr, 91.108.0.0/16, 香港节点
 ip-cidr, 109.239.140.0/24, 香港节点
