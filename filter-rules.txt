@@ -12,7 +12,7 @@ host-keyword, claude, 美国节点
 host-keyword, cursor, direct
 host-keyword, dailymotion, 香港节点
 host-keyword, diabrowser, 美国节点
-host-keyword, google, 日本节点
+host-keyword, google, 美国节点
 host-keyword, grok, proxy
 host-keyword, hottg, 香港节点
 host-keyword, immersivetranslate, 香港节点
