@@ -101,7 +101,7 @@ host-suffix, cdninstagram.com, 香港节点
 host-suffix, cdnst.net, 香港节点
 host-suffix, ceoworld.biz, 香港节点
 host-suffix, cfl.dropboxstatic.com, 香港节点
-host-suffix, chatgpt.com, 台湾节点
+host-suffix, chatgpt.com, 日本节点
 host-suffix, chatpdf.com, 香港节点
 host-suffix, ciechanow.ski, 香港节点
 host-suffix, cjkypo.com, 香港节点
@@ -278,7 +278,7 @@ host-suffix, omny.fm, 香港节点
 host-suffix, omtrdc.net, 香港节点
 host-suffix, one.one, 香港节点
 host-suffix, open.spotifycdn.com, 香港节点
-host-suffix, openai.com, 台湾节点
+host-suffix, openai.com, 日本节点
 host-suffix, opencode.net, 香港节点
 host-suffix, oup.com, 香港节点
 host-suffix, owenyoung.com, 香港节点
