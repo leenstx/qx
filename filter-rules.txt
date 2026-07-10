@@ -101,7 +101,7 @@ host-suffix, cdninstagram.com, 任意策略
 host-suffix, cdnst.net, 任意策略
 host-suffix, ceoworld.biz, 任意策略
 host-suffix, cfl.dropboxstatic.com, 任意策略
-host-suffix, chatgpt.com, 台湾节点
+host-suffix, chatgpt.com, 国外策略
 host-suffix, chatpdf.com, 任意策略
 host-suffix, ciechanow.ski, 任意策略
 host-suffix, cjkypo.com, 任意策略
@@ -278,7 +278,7 @@ host-suffix, omny.fm, 任意策略
 host-suffix, omtrdc.net, 任意策略
 host-suffix, one.one, 任意策略
 host-suffix, open.spotifycdn.com, 任意策略
-host-suffix, openai.com, 台湾节点
+host-suffix, openai.com, 国外策略
 host-suffix, opencode.net, 任意策略
 host-suffix, oup.com, 任意策略
 host-suffix, owenyoung.com, 任意策略
