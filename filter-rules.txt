@@ -461,6 +461,7 @@ host-suffix, zlibrary.to, 任意策略
 host-suffix, zuise.co, 任意策略
 
 host-suffix, behance.net, 任意策略
+host-suffix, workers.dev, 任意策略
 # --- IP-CIDR Rules ---
 ip-cidr, 91.108.0.0/16, 任意策略
 ip-cidr, 109.239.140.0/24, 任意策略
